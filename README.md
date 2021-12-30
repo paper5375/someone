@@ -1,8 +1,10 @@
 # @someone
  [@someone](https://www.youtube.com/watch?v=BeG5FqTpl9U) returns!
 
-This bot was **not** designed for use in large servers. It's probably not a great idea to use it in a server of more than a few members.
+## :warning:WARNING:warning:
+This bot was **not** designed for use in large servers. Please don't run this bot in a server with more than a few people.
 
+## Installation
 If you want to use this bot for yourself:
 1. Download the source code.
 2. Run `npm i` in the root directory to install dependencies.
@@ -14,3 +16,6 @@ If you want to use this bot for yourself:
   }
   ```
 4. Run `npm run start` to compile and start the bot.
+
+## License
+This project is licensed under the [WTFPL license](LICENSE). It wasn't made for actual use, but the license lets you do what you want with the code.
