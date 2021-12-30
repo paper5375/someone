@@ -1,0 +1,10 @@
+{
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "typescript": "^4.3.5"
+  }
+}

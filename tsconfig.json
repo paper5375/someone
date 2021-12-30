@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "noImplicitReturns": true,
+    "allowUnreachableCode": false,
+    "alwaysStrict": true,
+    "noImplicitThis": true,
+    "strict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "outDir": "./dist",
+  },
+
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "config.json"]
+}
